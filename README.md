@@ -44,8 +44,6 @@ It brings several practical security and network-analysis utilities into one int
 
 ## 🤖 Try the Bot
 
-## 🤖 Try the Bot
-
 <p align="center">
   <a href="https://t.me/cyberassistant_hs_bot">
     <img src="https://img.shields.io/badge/🚀%20OPEN%20CYBER%20ASSISTANT-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Open Cyber Assistant">
