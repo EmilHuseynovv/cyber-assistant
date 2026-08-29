@@ -87,13 +87,29 @@ It brings several practical security and network-analysis utilities into one int
 
 ## 🧰 Tech Stack
 
+## 🧰 Tech Stack
+
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Telegram%20Bot%20API-26A5E4?style=flat-square&logo=telegram&logoColor=white">
-<img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square">
-<img src="https://img.shields.io/badge/AbuseIPDB-000000?style=flat-square">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+<a href="https://www.python.org/">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+</a>
+
+<a href="https://python-telegram-bot.org/">
+  <img src="https://img.shields.io/badge/python--telegram--bot-26A5E4?style=flat-square&logo=telegram&logoColor=white">
+</a>
+
+<a href="https://nmap.org/">
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square">
+</a>
+
+<a href="https://www.abuseipdb.com/">
+  <img src="https://img.shields.io/badge/AbuseIPDB-000000?style=flat-square">
+</a>
+
+<a href="https://www.linux.org/">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+</a>
 
 </p>
 
