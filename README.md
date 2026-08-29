@@ -44,17 +44,13 @@ It brings several practical security and network-analysis utilities into one int
 
 ## 🤖 Try the Bot
 
+## 🤖 Try the Bot
+
 <p align="center">
   <a href="https://t.me/cyberassistant_hs_bot">
-    <img src="https://img.shields.io/badge/🚀%20OPEN%20CYBER%20ASSISTANT-2CA5E0?style=for-the-badge" alt="Open Cyber Assistant">
+    <img src="https://img.shields.io/badge/🚀%20OPEN%20CYBER%20ASSISTANT-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Open Cyber Assistant">
   </a>
 </p>
-</p>
-
-> Replace `YOUR_TELEGRAM_BOT_LINK` with your actual Telegram bot URL, for example:
->
-> `https://t.me/CyberAssistantBot`
-
 ---
 
 ## 📸 Preview
@@ -84,8 +80,6 @@ It brings several practical security and network-analysis utilities into one int
 </p>
 
 ---
-
-## 🧰 Tech Stack
 
 ## 🧰 Tech Stack
 
