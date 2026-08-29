@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_TELEGRAM_BOT_LINK">
+  <a href="https://t.me/cyberassistant_hs_bot">
     <img src="https://img.shields.io/badge/Telegram-Open%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Open Telegram Bot">
   </a>
   <a href="https://github.com/EmilHuseynovv/cyber-assistant">
@@ -45,9 +45,10 @@ It brings several practical security and network-analysis utilities into one int
 ## 🤖 Try the Bot
 
 <p align="center">
-  <a href="YOUR_TELEGRAM_BOT_LINK">
+  <a href="https://t.me/cyberassistant_hs_bot">
     <img src="https://img.shields.io/badge/🚀%20OPEN%20CYBER%20ASSISTANT-2CA5E0?style=for-the-badge" alt="Open Cyber Assistant">
   </a>
+</p>
 </p>
 
 > Replace `YOUR_TELEGRAM_BOT_LINK` with your actual Telegram bot URL, for example:
